@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
-title: Experience
+title: Professional & Research experience
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Data Scientist
+    company: Flipkart
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Bengaluru, India
+    date_start: '2020-08-03'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Creating automatic answer generation system using relevant information from multiple data sources of the product.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Research Intern
+    company: Okinawa Institute of Science and Technology
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Okinawa, Japan
+    date_start: '2019-05-11'
+    date_end: '2016-07-26'
+    description: Implemented and benchmarked, a novel model free Reinforcement Learning algorithm that outperforms the existing state of the art methods in sample efficiency.
+
+  - title: Research Intern
+    company: Purdue University
+    company_url: ''
+    location: Indiana, United States
+    date_start: '2018-05-13'
+    date_end: '2018-07-20'
+    description: Modelled IR and MS spectra of compounds using ML/DL architectures to predict their chemical properties and visualized the learnt information.
+
+  - title: Data Analytics Intern
+    company: Xcode Life Sciences
+    company_url: ''
+    location: Chennai, India
+    date_start: '2017-05-15'
+    date_end: '2017-07-25'
+    description: Applied unsupervised learning techniques on genetic sequence to know about a person’s ancestry and performed health predisposition & trait prediction on gene data to understand about genetic predisposition. 
 ---

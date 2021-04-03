@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/anand_cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/anand_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a Data Scientist at Flipkart Internet Privated Ltd. since August, 2020. I am currently working on building automatic question answering and answer generation systems that utilize different information sources of a product to answer customer queries.
+I am a Data Scientist at Flipkart Internet Private Ltd. since August, 2020. I am currently working on building automatic question answering and answer generation systems that utilize different information sources of a product to answer customer queries.
 
-Previously, I completed my integrated dual degree (Bachelors and Masters) from Indian Institute of Technology, Madras in July, 2020. My Masters thesis project was on goal directed small molecule generation using reinforcement learning. I was advised by Prof. Balaraman Ravindran and Prof. Karthik Raman. I was a research intern at Okinawa Institute of Science and Technology advised by Prof. Kenji Doya in Summer 2019 where I worked on model free deep reinforcement learning and at Purdue University advised by Prof. Gaurav Chopra in Summer 2018 where I worked on predicting functional groups from spectra of molecular compounds. 
+Previously, I completed my integrated dual degree (Bachelors and Masters) from Indian Institute of Technology, Madras in July, 2020. My Masters thesis project was on goal directed small molecule generation using reinforcement learning for which I worked under the supervision of Prof. Balaraman Ravindran and Prof. Karthik Raman. I am fortunate to have spent my time at Okinawa Institute of Science and Technology advised by Prof. Kenji Doya in Summer, 2019 and at Purdue University advised by Prof. Gaurav Chopra in Summer, 2018. 
 

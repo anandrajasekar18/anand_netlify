@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 50
@@ -23,28 +23,36 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url:
+  date_end: 
+  date_start: "2020-10-30"
+  description: Awarded for highest CGPA in Biotechnology department during 57th convocation of IIT Madras
+  organization: IIT Madras
+  organization_url: https://www.iitm.ac.in/ 
+  title: Institute Merit Prize
+  url: 
+- certificate_url: 
+  date_end: 
+  date_start: "2020-10-30"
+  description: Awarded for highest CGPA in the field of Biological Engineering during 57th convocation of IIT Madras
+  organization: IIT Madras
+  organization_url: https://www.iitm.ac.in/
+  title: Biocon Prize
+  url: 
+- certificate_url: 
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2018-01-25"
+  description: "Awarded for excellence in engineering and science"
+  organization: Honda Foundation
+  organization_url: https://www.hondafoundation.jp
+  title: 'Honda Young Engineer and Scientist award'
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
+- certificate_url: 
+  date_end: "2018-07-01"
   date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  description: "Awarded for academic excellence"
+  organization: IIT Madras
+  organization_url: https://www.iitm.ac.in/
+  title: 'Ram Shriram Scholarship'
   url: ""
 ---
