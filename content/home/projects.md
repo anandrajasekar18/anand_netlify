@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 70
 
 title: Projects
 subtitle: ''
@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Machine Learning
+    tag: Machine Learning
   - name: Other
     tag: Demo
 
@@ -45,4 +45,4 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
----
+--- -->
