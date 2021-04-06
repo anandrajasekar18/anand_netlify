@@ -46,9 +46,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/anandrajsekar18
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=C4sna14AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/anandrajasekar18
