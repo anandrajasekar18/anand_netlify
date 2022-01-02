@@ -41,7 +41,7 @@ item:
   url: 
 - certificate_url: 
   date_end: 
-  date_start: "2020-08-30"
+  date_start: "2020-09-30"
   description: Awarded for implementing the top-performing solution for geocoding
   organization: Flipkart
   organization_url: https://www.flipkart.com/
