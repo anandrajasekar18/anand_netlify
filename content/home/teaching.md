@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Teaching Assistant - Reinforcement Learning (CS6700) 
+  - title: Teaching Assistant - Reinforcement Learning (CS6700) 
     company: IIT Madras
     company_url: ''
     location: Chennai, India
@@ -39,7 +39,7 @@ experience:
     company_url: ''
     location: Chennai, India
     date_start: '2019-08-05'
-    date_end: '2020-11-17'
+    date_end: '2019-11-17'
     description: |2-
         Responsibilites include 
         * Proctoring tests

@@ -34,7 +34,7 @@ Experimental results show that our relevancy prediction model (BERT-QA) outperfo
 
 
 # Summary. An optional shortened abstract.
-summary: We propose a novel answer generation pipeline using relevant information from multiple data sources of a product.
+summary: We propose a novel answer generation pipeline that uses relevant information from multiple data sources of a product.
 tags: []
 
 # Display this page in the Featured widget?
