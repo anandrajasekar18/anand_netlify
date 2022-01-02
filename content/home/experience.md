@@ -28,7 +28,7 @@ experience:
     location: Bengaluru, India
     date_start: '2020-08-03'
     date_end: ''
-    description: Creating automatic answer generation system using relevant information from multiple data sources of the product.
+    description: Built an automatic answer generation pipeline using relevant information from multiple data sources of a product. Modelling a vertical agnostic review extraction system for different aspect categories of a product.
         
   - title: Research Intern
     company: Okinawa Institute of Science and Technology
@@ -52,5 +52,5 @@ experience:
     location: Chennai, India
     date_start: '2017-05-15'
     date_end: '2017-07-25'
-    description: Applied unsupervised learning techniques on genetic sequence to know about a person’s ancestry and performed health predisposition & trait prediction on gene data to understand about genetic predisposition. 
+    description: Applied unsupervised learning techniques on genetic sequence to predict a person’s ancestry and worked on trait prediction on gene data to understand about genetic predisposition to certain conditions.
 ---

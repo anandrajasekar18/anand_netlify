@@ -40,6 +40,14 @@ item:
   title: Biocon Prize
   url: 
 - certificate_url: 
+  date_end: 
+  date_start: "2020-08-30"
+  description: Awarded for implementing the top-performing solution for geocoding
+  organization: Flipkart
+  organization_url: https://www.flipkart.com/
+  title: Winner - Jedi Data Science Machine Learning challenge
+  url: 
+- certificate_url: 
   date_end: ""
   date_start: "2018-01-25"
   description: "Awarded for excellence in engineering and science"

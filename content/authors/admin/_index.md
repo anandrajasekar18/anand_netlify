@@ -18,9 +18,9 @@ bio: My research interests include applied deep learning, reinforcement learning
 
 # Interests to show in About widget
 interests:
-- Deep learning
-- Reinforcement learning
 - Computational biology
+- Reinforcement learning
+- Deep learning
 
 # Education to show in About widget
 education:
@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a Data Scientist at Flipkart Internet Private Ltd. since August, 2020. I am currently working on building automatic question answering and answer generation systems that utilize different information sources of a product to answer customer queries.
+I am a Data Scientist at Flipkart Internet Private Ltd. since August, 2020. I worked on automatic question answering and answer generation systems that utilize different information sources of a product to answer customer queries. Currently, I am building a review extraction system for different aspect categories of a product.
 
 Previously, I completed my integrated dual degree (Bachelors and Masters) from Indian Institute of Technology, Madras in July, 2020. My Masters thesis project was on goal directed small molecule generation using reinforcement learning for which I worked under the supervision of Prof. Balaraman Ravindran and Prof. Karthik Raman. I am fortunate to have spent my time at Okinawa Institute of Science and Technology advised by Prof. Kenji Doya in Summer, 2019 and at Purdue University advised by Prof. Gaurav Chopra in Summer, 2018. 
 

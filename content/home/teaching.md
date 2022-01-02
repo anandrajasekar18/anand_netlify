@@ -33,6 +33,17 @@ experience:
         * Conducting tutorials
         * Preparing slides 
         * Grading assignments & tests
+
+  - title: Teaching Assistant - Life Sciences (BT1010) 
+    company: IIT Madras
+    company_url: ''
+    location: Chennai, India
+    date_start: '2019-08-05'
+    date_end: '2020-11-17'
+    description: |2-
+        Responsibilites include 
+        * Proctoring tests
+        * Grading assignments & tests
         
 
 ---
