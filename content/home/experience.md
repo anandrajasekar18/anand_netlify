@@ -28,7 +28,7 @@ experience:
     location: Bengaluru, India
     date_start: '2020-08-03'
     date_end: ''
-    description: Built an automatic answer generation pipeline using relevant information from multiple data sources of a product. Modelling a vertical agnostic review extraction system for different aspect categories of a product.
+    description: Built an automatic answer generation pipeline that uses relevant information from multiple data sources of a product. Modelling a vertical agnostic review extraction system for different aspect categories of a product.
         
   - title: Research Intern
     company: Okinawa Institute of Science and Technology
