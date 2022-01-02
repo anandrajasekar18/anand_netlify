@@ -35,7 +35,7 @@ experience:
     company_url: ''
     location: Okinawa, Japan
     date_start: '2019-05-11'
-    date_end: '2016-07-26'
+    date_end: '2019-07-26'
     description: Implemented and benchmarked, a novel model free Reinforcement Learning algorithm that outperforms the existing state of the art methods in sample efficiency.
 
   - title: Research Intern
